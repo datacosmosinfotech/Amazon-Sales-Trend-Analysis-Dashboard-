@@ -2,6 +2,7 @@
 ## 📌 Overview
 This Power BI dashboard provides a descriptive analysis of Amazon product demand trends using product-level data. The dashboard focuses on understanding purchase contribution, category-level performance, and key attributes influencing demand through interactive visuals and a decomposition tree.
 The analysis is exploratory and avoids causal assumptions.
+https://github.com/datacosmosinfotech/Amazon-Sales-Trend-Analysis-Dashboard-/blob/main/Dashboard.png
 
 ## 📁 Dataset Links
 ### Raw Dataset
