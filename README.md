@@ -12,9 +12,7 @@ The analysis is exploratory and avoids causal assumptions.
 ### Cleaned Dataset
 👉 https://docs.google.com/spreadsheets/d/1jtBl7j8On_ciOydGonOUSbsjVEIGSiO_/edit?usp=drive_link&ouid=102958371086507088368&rtpof=true&sd=tr
 ### 🎥 Demo Video
-👉 https://drive.google.com/file/d/1Zn89wWnaCn0eoXyzyfLrZZ3L9AmzZfZf/view?usp=drive_link
-### 🖼️ Dashboard Screenshot
-👉https://drive.google.com/uc?export=view&id=1ZCA_aMx5Ta1Xx2EUaROtYlqahYJ5lwIT
+👉 https://drive.google.com/file/d/1n7pcrHkBTk7kXmu6inW-6Coz0Iwyda2G/view?usp=drive_link
 
 ## 🎯 Objectives
 Analyze overall product demand using purchase metrics
