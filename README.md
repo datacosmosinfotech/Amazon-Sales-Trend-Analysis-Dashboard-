@@ -116,16 +116,24 @@ Download the cleaned dataset
 👉https://docs.google.com/spreadsheets/d/1jtBl7j8On_ciOydGonOUSbsjVEIGSiO_/edit?usp=drive_link&ouid=102958371086507088368&rtpof=true&sd=tr
 
 Open the .pbix file in Power BI Desktop
+
 If prompted:
+
 Go to Transform Data
+
 Update the dataset path
+
 Click Close & Apply
+
 Use slicers and visuals to explore the dashboard
 
 ## 🛠️ Tools Used
+
 Power BI Desktop
+
 DAX for calculated measures
-Data preprocessing using Python / Excel
+
+Data preprocessing using Python
 
 ## 🔍 Key Insights
 
