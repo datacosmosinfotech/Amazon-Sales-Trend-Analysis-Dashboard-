@@ -64,6 +64,7 @@ Average Rating
 Total Purchases (Last Month)
 
 ## 📊 Dashboard Visuals
+
 ### 1️⃣ Decomposition Tree – Drivers of Purchases (Last Month)
 
 Analyze: Sum of purchased last month
@@ -83,22 +84,38 @@ Rating
 Used to identify major contributors to total demand.
 
 ### 2️⃣ Purchases by Product Category
+
 Visualizes how demand is distributed across categories
+
 Highlights high demand categories
+
 ### 3️⃣ Price Comparison
+
 Compares sum of original price vs discounted price by product category
+
 Helps understand pricing distribution
+
 ### 4️⃣ Sponsorship Analysis
+
 Shows average purchases by sponsored vs organic products
+
 Used to compare demand performance at a per product level
+
 ### 5️⃣ Buy Box Availability Analysis
 Displays total purchases grouped by Buy Box availability
+
 Highlights the importance of Buy Box presence
+
 ### 6️⃣ Sustainability Tags Analysis
+
 Analyzes average purchases by sustainability tags
+
 Provides insight into demand patterns for eco related product labels
+
 ### 7️⃣ Rating Based Demand Distribution
+
 Shows how purchases are distributed across rating bands
+
 Helps assess whether higher ratings align with more demand
 
 # 🎛️ Interactivity
