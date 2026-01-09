@@ -100,7 +100,9 @@ Helps assess whether higher ratings align with more demand
 
 # 🎛️ Interactivity
 Product Category slicer for focused analysis
+
 Visual level interactions applied to control slicer impact
+
 Decomposition tree reflects dominant contributors within the selected filter context
 
 ## ▶️ How to Run This Project
