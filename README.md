@@ -15,42 +15,70 @@ The analysis is exploratory and avoids causal assumptions.
 
 ## 🎯 Objectives
 Analyze overall product demand using purchase metrics
+
 Understand drivers of purchases across product attributes
+
 Compare demand patterns by category, rating, sponsorship, and badges
-Enable interactive exploration through slicers and drill-down visuals
+
+Enable interactive exploration through slicers and drill down visuals
 
 ## 📂 Dataset Description
 Each row in the dataset represents a single product and includes:
+
 Product title
+
 Product category
+
 Rating
+
 Review Count
+
 Best seller tag
+
 Buy Box availability
+
 Sponsored tag
+
 Sustainability tags
+
 Purchased last month
+
 Original Price
+
 Discounted Price
+
 Discount Percentage
+
 Coupon
+
 Note: purchased last month represents demand per product.
 
 ## 📈 Key KPIs
 Total Products
+
 Average Rating
+
 Total Purchases (Last Month)
 
 ## 📊 Dashboard Visuals
 ### 1️⃣ Decomposition Tree – Drivers of Purchases (Last Month)
+
 Analyze: Sum of purchased last month
+
 Explain by:
+
 Product Category
+
 Buy Box Availability
+
 Best Seller Tag
+
 Sponsored Tag
+
 Rating
+
 Used to identify major contributors to total demand.
+
 ### 2️⃣ Purchases by Product Category
 Visualizes how demand is distributed across categories
 Highlights high demand categories
@@ -95,25 +123,42 @@ DAX for calculated measures
 Data preprocessing using Python / Excel
 
 ## 🔍 Key Insights
+
 ✔Demand is concentrated in a few categories.
+
 ✔Buy Box availability strongly impacts demand.
+
 ✔Non badge products drive substantial purchases.
+
 ✔Best Seller status is not a demand guarantee.
+
 ✔Organic products dominate total purchases.
+
 ✔Sponsored products have limited overall impact.
+
 ✔Higher ratings generally align with higher demand.
+
 ✔Ratings alone do not explain demand.
+
 ✔Sustainability impact varies by segment.
 
 ## 💼 Business Recommendations
+
 ➡️Focus more on products and categories that have higher purchases.
+
 ➡️Ensure products have Buy Box availability to improve demand.
+
 ➡️Do not depend only on Best Seller badges to judge product performance.
+
 ➡️Use sponsored listings carefully where organic demand is low.
+
 ➡️Consider ratings along with other factors like category and availability when analyzing demand.
 
 ## 👤 Author
 Asma Sirkhot
+
 Data Analyst | Datascientist
+
 LinkedIn:https://www.linkedin.com/in/asma-sirkhot-85b841362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 📍Mumbai India
