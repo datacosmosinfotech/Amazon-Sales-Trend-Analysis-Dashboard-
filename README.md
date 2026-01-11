@@ -188,6 +188,6 @@ Asma Sirkhot
 
 Data Analyst | Datascientist
 
-LinkedIn:https://www.linkedin.com/in/asma-sirkhot-85b841362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+🔗LinkedIn :https://www.linkedin.com/in/asma-sirkhot-85b841362/details/projects/
 
 📍Mumbai India
