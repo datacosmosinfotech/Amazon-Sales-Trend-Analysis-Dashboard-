@@ -130,7 +130,8 @@ https://powerbi.microsoft.com/desktop/
 Download the cleaned dataset
 👉https://docs.google.com/spreadsheets/d/1jtBl7j8On_ciOydGonOUSbsjVEIGSiO_/edit?usp=drive_link&ouid=102958371086507088368&rtpof=true&sd=tr
 
-Open the .pbix file in Power BI Desktop
+Open the .pbit file in Power BI Desktop
+👉https://drive.google.com/file/d/1Q21-rBoksvFNZaHq6wDxDLNsGJWVPnLi/view?usp=drive_link
 
 If prompted:
 
